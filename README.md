@@ -13,7 +13,7 @@ Welcome to the Python Exercise Repository! This repository is about my journey t
 DE (DATA ENGINEER) the exercise that i encounter and i start to re-write it then save here in github.
 Though i did not put all the exercise that i encounter but this is enough to start your journey also
 into DE. Special Thanks to <b>DATA ENGINEER PILIPINAS</b> also to <b>SIR MYK </b>
-for giving me opportunity to join in 6 months training course in datacamp. 
+for giving me opportunity to join in free 6 months training course in datacamp. 
 
 ## Getting Started
 
