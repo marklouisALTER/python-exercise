@@ -6,7 +6,8 @@ A collection of Python exercises to enhance your programming skills.
 
 ## Table of Contents
 - Importing data using python
-
+- Scalping data in web using python
+- Importing data in sql using python
 ## Introduction
 
 Welcome to the Python Exercise Repository! This repository is about my journey to become 
