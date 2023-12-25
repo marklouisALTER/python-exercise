@@ -25,5 +25,19 @@ Make sure you have Python installed on your machine. You can download it from [p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/python-exercise.git
+git clone https://github.com/marklouisALTER/python-exercises.git
 cd python-exercise
+```
+### How to Contribute
+
+Feel free to contribute by putting your fav exercise or what to share some topic here
+
+### Issues
+
+1. Check out the existing issues on [https://github.com/marklouisALTER/python-exercises/issues](link-to-issue-tracker) to see if there's something you can help with.
+2. If you find an issue you'd like to work on, please comment on the issue to let us know you're interested.
+
+### Feature Requests
+
+If you have a feature request or an idea for improvement, feel free to open a new issue on our [https://github.com/marklouisALTER/python-exercises/issues](link-to-issue-tracker). !
+
