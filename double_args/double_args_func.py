@@ -15,3 +15,9 @@ def double_args(func):
 multiply = double_args(multiply)
 #then we print the multiply function with two arguments
 print(multiply(1, 5))
+
+#though we can use this 
+@double_args
+def multiply(a, b):
+    return a * b
+# as shortcut to the above code
