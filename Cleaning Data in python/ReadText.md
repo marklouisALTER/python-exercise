@@ -12,3 +12,10 @@ for example
     # The output of dubplicate0 can sort by firstname or other column name
     height_weight[duplicates].sort_values(by = 'firstname');
 ```
+
+# .drop_dubplicates()
+ - inplace = Drop the duplicates directly from the rows inside DataFrame without creating new values <b>True</b>
+
+```bash 
+    height_weight.drop_dubplicates(inplace = True);
+```
