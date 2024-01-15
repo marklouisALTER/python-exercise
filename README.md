@@ -5,9 +5,33 @@
 A collection of Python exercises to enhance your programming skills.
 
 ## Table of Contents
+- Cleaning Data In Python
+    - Comparing Strings
+    - Finding Consistency
+        - Consistency
+        - Replace String Text
+        - Whitespace trailing
+    - Uniform
+        - Cross Validating
 - Importing data using python
-- Scalping data in web using python
-- Importing data in sql using python
+    - Combining Multiple Dataset
+    - Importing Data through api
+    - Importing Data through JSON
+    - Importing Data through web
+    - SQL Alchemy
+    - World Map
+- Functions (double_args)
+    - Memorize Function
+    - Double Args Function
+    - Print N times
+    - Sleep Function
+    - Time Function
+- Context Manager
+- Stream Data Pandas
+    - Excel file
+    - Parse Date
+    - Handling Errors
+    - Plot Files
 ## Introduction
 
 Welcome to the Python Exercise Repository! This repository is about my journey to become 
