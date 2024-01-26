@@ -1,0 +1,17 @@
+# this is where the requirements of your package it will act as note 
+matplotlib
+numpy==1.15.4  # if there is package with minimum requirements you can specify the version like that <<--
+pycodestyle>=1.15.4 # if there is package with minimum requirements
+
+# if you want to install all the packages here and meet the requirements
+# we can use command
+# pip install -r requirements.txt -->> we can recreate the environment not install the packages
+
+
+# FILE PACKAGE STRUCTURE 
+# work_dir/
+# ├── my_package
+# │             ├── __init__.py
+# │             └── utils.py
+# ├── requirements.txt
+# └── setup.py
